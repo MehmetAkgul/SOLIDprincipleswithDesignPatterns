@@ -1,4 +1,4 @@
-package org.solid.openClosePrinciple;
+package org.solid.theOpenClosedPrincipleWithStrategyDesignPatterns.bookStore;
 
 public class PrintedBook implements Book {
     private String title;

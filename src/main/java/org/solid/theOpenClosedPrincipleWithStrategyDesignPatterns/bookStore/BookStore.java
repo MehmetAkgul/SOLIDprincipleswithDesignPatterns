@@ -1,4 +1,4 @@
-package org.solid.openClosePrinciple;
+package org.solid.theOpenClosedPrincipleWithStrategyDesignPatterns.bookStore;
 
 public class BookStore {
     public void sell(Book book) {
